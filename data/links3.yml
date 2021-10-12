@@ -1,0 +1,24 @@
+- group: transfer
+  items:
+    - title: frp
+      url: https://transfer.home.frp.sang.ink
+    - title: inner
+      url: http://transfer.home.sang.ink
+    - title: v6
+      url: http://transfer.home6.sang.ink:8088
+- group: netdata
+  items:
+    - title: frp
+      url: https://netdata.home.frp.sang.ink
+    - title: inner
+      url: http://netdata.home.sang.ink
+    - title: v6
+      url: http://netdata.home6.sang.ink:8888
+- group: timestamp
+  items:
+    - title: frp
+      url: https://www.home.frp.sang.ink/timestamp
+    - title: inner
+      url: http://www.home.sang.ink/timestamp
+    - title: v6
+      url: http://www.home6.sang.ink:8888/timestamp
