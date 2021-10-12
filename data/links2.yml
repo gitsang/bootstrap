@@ -1,24 +1,12 @@
-- group: qbittorrent
+- group: index
   items:
-    - title: frp
-      url: https://home.frp.sang.ink:8180
-    - title: inner
-      url: http://home.sang.ink:8180
-    - title: v6
-      url: http://home6.sang.ink:8180
-- group: emby
+    - title: Go >>
+      url: https://www.cn.sang.ink
+- group: file
   items:
-    - title: frp
-      url: https://emby.home.frp.sang.ink
-    - title: inner
-      url: http://emby.home.sang.ink
-    - title: v6
-      url: http://emby.home6.sang.ink:8888
-- group: 9kg
+    - title: Go >>
+      url: https://file.cn.sang.ink
+- group: frps
   items:
-    - title: frp
-      url: https://emby18.home.frp.sang.ink
-    - title: inner
-      url: http://emby18.home.sang.ink
-    - title: v6
-      url: http://emby18.home6.sang.ink:8888
+    - title: Go >>
+      url: https://frp-dashboard.cn.sang.ink
