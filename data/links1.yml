@@ -1,24 +1,4 @@
-- group: home
+- group: 亿联平台导航
   items:
-    - title: frp
-      url: https://www.home.frp.sang.ink
-    - title: inner
-      url: http://www.home.sang.ink
-    - title: v6
-      url: http://www.home6.sang.ink:8888
-- group: h5ai
-  items:
-    - title: frp
-      url: https://h5ai.home.frp.sang.ink
-    - title: inner
-      url: http://h5ai.home.sang.ink
-    - title: v6
-      url: http://h5ai.home6.sang.ink:8888
-- group: filerun
-  items:
-    - title: frp
-      url: https://filerun.home.frp.sang.ink
-    - title: inner
-      url: http://filerun.home.sang.ink
-    - title: v6
-      url: http://filerun.home6.sang.ink:8888
+    - title: Go >>
+      url: http://yealinkops.com/

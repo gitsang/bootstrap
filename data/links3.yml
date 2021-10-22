@@ -1,24 +1,12 @@
-- group: transfer
+- group: Nexus
   items:
-    - title: frp
-      url: https://transfer.home.frp.sang.ink
-    - title: inner
-      url: http://transfer.home.sang.ink
-    - title: v6
-      url: http://transfer.home6.sang.ink:8088
-- group: netdata
+    - title: Go >>
+      url: https://nexus.yealinkops.com/
+- group: OpenStack
   items:
-    - title: frp
-      url: https://netdata.home.frp.sang.ink
-    - title: inner
-      url: http://netdata.home.sang.ink
-    - title: v6
-      url: http://netdata.home6.sang.ink:8888
-- group: timestamp
+    - title: Go >>
+      url: http://openstack.yealinkops.com/auth/login/?next=/project/
+- group: Send
   items:
-    - title: frp
-      url: https://www.home.frp.sang.ink/timestamp
-    - title: inner
-      url: http://www.home.sang.ink/timestamp
-    - title: v6
-      url: http://www.home6.sang.ink:8888/timestamp
+    - title: Go >>
+      url: http://send.ylops.com:8080/
