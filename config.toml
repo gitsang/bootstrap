@@ -29,7 +29,7 @@ paginate = 5
   description = "Bootstrap"
   #images = ["logo.jpg"]
   startPageColumns = true
-  welcomeText = "Bootstrap-BP hugo startpage"
+  welcomeText = "Bootstrap-Home"
 
 [[params.searchEngines]]
   name = "Google"
