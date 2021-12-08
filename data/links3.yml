@@ -1,24 +1,24 @@
-- group: transfer
+- group: grafana
   items:
     - title: frp
-      url: https://transfer.home.frp.sang.ink
+      url: https://grafana.home.frp.sang.ink
     - title: inner
-      url: https://transfer.home.sang.ink
+      url: https://grafana.home.sang.ink
     - title: v6
-      url: http://transfer.home6.sang.ink:8088
-- group: netdata
+      url: https://grafana.home6.sang.ink:8443
+- group: emby
   items:
     - title: frp
-      url: https://netdata.home.frp.sang.ink
+      url: https://emby.home.frp.sang.ink
     - title: inner
-      url: https://netdata.home.sang.ink
+      url: https://emby.home.sang.ink
     - title: v6
-      url: https://netdata.home6.sang.ink:8443
-- group: timestamp
+      url: https://emby.home6.sang.ink:8443
+- group: embyX
   items:
     - title: frp
-      url: https://www.home.frp.sang.ink/timestamp
+      url: https://embyX.home.frp.sang.ink
     - title: inner
-      url: https://www.home.sang.ink/timestamp
+      url: https://embyX.home.sang.ink
     - title: v6
-      url: https://www.home6.sang.ink:8443/timestamp
+      url: https://embyX.home6.sang.ink:8443

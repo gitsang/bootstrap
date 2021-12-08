@@ -1,24 +1,24 @@
 - group: qbittorrent
   items:
     - title: frp
-      url: https://home.frp.sang.ink:8000
+      url: https://qb.home.frp.sang.ink
     - title: inner
-      url: https://home.sang.ink:8000
+      url: https://qb.home.sang.ink
     - title: v6
-      url: http://home6.sang.ink:8000
-- group: emby
+      url: http://qb.home6.sang.ink:8443
+- group: file
   items:
     - title: frp
-      url: https://emby.home.frp.sang.ink
+      url: https://file.home.frp.sang.ink
     - title: inner
-      url: https://emby.home.sang.ink
+      url: https://file.home.sang.ink
     - title: v6
-      url: https://emby.home6.sang.ink:8443
-- group: embyX
+      url: https://file.home6.sang.ink:8443
+- group: transfer
   items:
     - title: frp
-      url: https://embyX.home.frp.sang.ink
+      url: https://transfer.home.frp.sang.ink
     - title: inner
-      url: https://embyX.home.sang.ink
+      url: https://transfer.home.sang.ink
     - title: v6
-      url: https://embyX.home6.sang.ink:8443
+      url: http://transfer.home6.sang.ink:8088

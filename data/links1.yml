@@ -6,19 +6,11 @@
       url: https://www.home.sang.ink
     - title: v6
       url: https://www.home6.sang.ink:8443
-- group: h5ai
+- group: timestamp
   items:
     - title: frp
-      url: https://h5ai.home.frp.sang.ink
+      url: https://www.home.frp.sang.ink/timestamp
     - title: inner
-      url: https://h5ai.home.sang.ink
+      url: https://www.home.sang.ink/timestamp
     - title: v6
-      url: https://h5ai.home6.sang.ink:8443
-- group: filerun
-  items:
-    - title: frp
-      url: https://filerun.home.frp.sang.ink
-    - title: inner
-      url: https://filerun.home.sang.ink
-    - title: v6
-      url: https://filerun.home6.sang.ink:8443
+      url: https://www.home6.sang.ink:8443/timestamp
