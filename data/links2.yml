@@ -1,11 +1,11 @@
 - group: qbittorrent
   items:
     - title: frp
-      url: https://qb.home.frp.sang.ink
+      url: https://qb.home.frp.sang.ink:8000
     - title: inner
-      url: https://qb.home.sang.ink
+      url: https://qb.home.sang.ink:8000
     - title: v6
-      url: http://qb.home6.sang.ink:8443
+      url: http://qb.home6.sang.ink:8000
 - group: file
   items:
     - title: frp
