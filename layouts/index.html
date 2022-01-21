@@ -55,6 +55,20 @@
             </div>
         {{ end }}
     </div>
+    <div id="groupList" class="card-deck mt-3">
+        {{ range .Site.Data.links4 }}
+            <div id="groupListEntry" class="card">
+                <div class="card-body">
+                    <h5 class="card-title groupTitle">{{ .group }}</h5>                        
+                    <ul class="list-group list-group-flush groupListList">
+                        {{ range .items }}
+                            <li class="list-group-item groupListListItem"><a href="{{ .url }}" target="_self" class="groupLink"><i class="{{ .icon }}"></i>&nbsp;<span class="groupText">{{ .title | safeHTML }}</span></a></li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        {{ end }}
+    </div>
 {{ else }}
     <div id="iconList" class="card-columns mt-3">
         {{ range .Site.Data.links }}

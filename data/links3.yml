@@ -2,17 +2,11 @@
   items:
     - title: Go >>
       url: https://transfer.cn.sang.ink
-- group: netdata
+- group: grafana
   items:
     - title: Go >>
-      url: https://netdata.cn.sang.ink
-- group: timestamp
+      url: https://grafana.cn.sang.ink
+- group: registry
   items:
     - title: Go >>
-      url: https://www.cn.sang.ink/timestamp
-- group: minecraft forge 1.16.5
-  items:
-      - title: mc.sang.ink:25565
-        url:
-      - title: mc.sang.pp.ua:25565
-        url:
+      url: https://hubui.cn.sang.ink
