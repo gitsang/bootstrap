@@ -1,0 +1,16 @@
+- group: 运维平台需求 Wiki
+  items:
+    - title: Go >>
+      url: http://wiki.yealink.com:8090/pages/viewpage.action?pageId=38161227
+- group: Yops 看板
+  items:
+    - title: Go >>
+      url: https://gitcode.yealink.com/groups/server/devops/yops/-/boards/484
+- group: Yops 项目目录
+  items:
+    - title: Go >>
+      url: https://gitcode.yealink.com/server/devops/yops
+- group: Yops 文档
+  items:
+    - title: Go >>
+      url: https://gitcode.yealink.com/server/devops/yops/yops-doc/-/tree/docs/yauth
