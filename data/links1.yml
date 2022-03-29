@@ -1,16 +1,4 @@
-- group: home
+- group: index
   items:
-    - title: frp
-      url: https://www.home.frp.sang.ink
     - title: inner
-      url: https://www.home.sang.ink
-    - title: v6
-      url: https://www.home6.sang.ink:8443
-- group: timestamp
-  items:
-    - title: frp
-      url: https://www.home.frp.sang.ink/timestamp
-    - title: inner
-      url: https://www.home.sang.ink/timestamp
-    - title: v6
-      url: https://www.home6.sang.ink:8443/timestamp
+      url: http://net.home.sang.ink

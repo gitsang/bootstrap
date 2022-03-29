@@ -1,24 +1,8 @@
-- group: grafana
-  items:
-    - title: frp
-      url: https://grafana.home.frp.sang.ink
-    - title: inner
-      url: https://grafana.home.sang.ink
-    - title: v6
-      url: https://grafana.home6.sang.ink:8443
 - group: emby
   items:
-    - title: frp
-      url: https://emby.home.frp.sang.ink
     - title: inner
-      url: https://emby.home.sang.ink
-    - title: v6
-      url: https://emby.home6.sang.ink:8443
+      url: http://media.home.sang.ink:8096
 - group: embyX
   items:
-    - title: frp
-      url: https://embyX.home.frp.sang.ink
     - title: inner
-      url: https://embyX.home.sang.ink
-    - title: v6
-      url: https://embyX.home6.sang.ink:8443
+      url: http://media.home.sang.ink:8196
