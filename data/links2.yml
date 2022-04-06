@@ -1,8 +1,8 @@
-- group: qbittorrent
-  items:
-    - title: inner
-      url: http://media.home.sang.ink:8000
 - group: log
   items:
     - title: inner
       url: http://log.home.sang.ink:5601
+- group: gitlab
+  items:
+    - title: inner
+      url: http://gitlab.home.sang.ink
