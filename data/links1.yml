@@ -2,3 +2,7 @@
   items:
     - title: inner
       url: http://index.home.sang.ink
+- group: pve
+  items:
+    - title: inner
+      url: https://home.sang.ink:8006

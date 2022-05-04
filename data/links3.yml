@@ -14,3 +14,7 @@
   items:
     - title: inner
       url: http://media.home.sang.ink:8196
+- group: photoprism
+  items:
+    - title: inner
+      url: http://media.home.sang.ink:2342
