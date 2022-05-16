@@ -2,6 +2,10 @@
   items:
     - title: Go >>
       url: https://www.cn.sang.ink/timestamp
+- group: mattermost
+  items:
+    - title: Go >>
+      url: https://mattermost.cn.sang.ink
 - group: minecraft forge 1.16.5
   items:
       - title: mc.sang.ink:25565
