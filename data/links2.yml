@@ -2,7 +2,11 @@
   items:
     - title: inner
       url: http://log.home.sang.ink:5601
+    - title: v6
+      url: http://log.home6.sang.ink:5601
 - group: gitlab
   items:
     - title: inner
-      url: http://gitlab.home.sang.ink
+      url: https://gitlab.home.sang.ink
+    - title: v6
+      url: https://gitlab.home6.sang.ink:8443

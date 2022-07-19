@@ -1,8 +1,12 @@
 - group: index
   items:
     - title: inner
-      url: http://index.home.sang.ink
+      url: https://index.home.sang.ink
+    - title: v6
+      url: https://index.home6.sang.ink
 - group: pve
   items:
     - title: inner
       url: https://home.sang.ink:8006
+    - title: v6
+      url: https://home6.sang.ink:8006

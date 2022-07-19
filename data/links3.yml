@@ -1,20 +1,28 @@
-- group: qittorrent
+- group: qbittorrent
   items:
     - title: inner
       url: http://media.home.sang.ink:8000
+    - title: v6
+      url: http://media.home6.sang.ink:8000
 - group: aria2
   items:
     - title: inner
       url: http://media.home.sang.ink:6880
+    - title: v6
+      url: http://media.home6.sang.ink:6880
 - group: emby
   items:
     - title: inner
       url: http://media.home.sang.ink:8096
-- group: embyX
-  items:
-    - title: inner
+    - title: v6
+      url: http://media.home6.sang.ink:8096
+    - title: x-inner
       url: http://media.home.sang.ink:8196
-- group: photoprism
+    - title: x-v6
+      url: http://media.home6.sang.ink:8196
+- group: filerun
   items:
     - title: inner
-      url: http://media.home.sang.ink:2342
+      url: http://media.home.sang.ink:80
+    - title: v6
+      url: http://media.home6.sang.ink:80
