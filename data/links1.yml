@@ -3,7 +3,7 @@
     - title: inner
       url: https://index.home.sang.ink
     - title: v6
-      url: https://index.home6.sang.ink
+      url: https://index.home6.sang.ink:8443
 - group: pve
   items:
     - title: inner

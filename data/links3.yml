@@ -22,7 +22,5 @@
       url: http://media.home6.sang.ink:8196
 - group: filerun
   items:
-    - title: inner
-      url: http://media.home.sang.ink:80
     - title: v6
-      url: http://media.home6.sang.ink:80
+      url: https://filerun.home6.sang.ink:8443
