@@ -1,14 +1,14 @@
-- group: timestamp
+- group: frps
   items:
     - title: Go >>
-      url: https://www.cn.sang.ink/timestamp
-- group: mattermost
+      url: https://frps.cn.sang.ink
+- group: grafana
   items:
     - title: Go >>
-      url: https://mattermost.cn.sang.ink
-- group: minecraft forge 1.16.5
+      url: https://grafana.cn.sang.ink
+- group: manager
   items:
-      - title: mc.sang.ink:25565
-        url:
-      - title: mc.sang.pp.ua:25565
-        url:
+    - title: portainer >>
+      url: https://portainer.cn.sang.ink
+    - title: pve >>
+      url: https://pve.home.sang.ink:8006

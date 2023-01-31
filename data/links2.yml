@@ -1,12 +1,12 @@
-- group: index
-  items:
-    - title: Go >>
-      url: https://www.cn.sang.ink
 - group: file
   items:
     - title: Go >>
       url: https://file.cn.sang.ink
-- group: frps
+- group: registry
   items:
     - title: Go >>
-      url: https://frps.cn.sang.ink
+      url: https://hubui.cn.sang.ink
+- group: transfer
+  items:
+    - title: Go >>
+      url: https://transfer.cn.sang.ink
